@@ -6,11 +6,10 @@ Visão geral:
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/420bbe40-9784-4127-b271-e0414ceda042" />
 
 
-🎯 Objetivos
+🎯 Objetivos:
 Auxiliar na organização e no cumprimento dos horários de medicações.
 
 🏆 Solução Proposta:
-
 Possui temporizador, alarme sonoro/visual e mecanismo de liberação controlados.
 
 💎 Detalhes
