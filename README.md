@@ -3,7 +3,8 @@
 Visão geral:
  Dispensador automático de comprimidos com alarme: dispositivo eletrônico projetado para armazenar e liberar doses de medicamentos em horários programados. Possui temporizador, alarme sonoro/visual e mecanismo de liberação controlada, auxiliando na organização e no cumprimento dos horários de medicação.
 
- 
+ <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2a4032b3-08c0-4ed0-a48b-88f62c0c0bbb" />
+
 🎯 Objetivos
 Auxiliar na organização e no cumprimento dos horários de medicações.
 
