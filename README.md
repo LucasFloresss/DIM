@@ -9,7 +9,8 @@ Visão geral:
 🎯 Objetivos
 Auxiliar na organização e no cumprimento dos horários de medicações.
 
-🏆 Solução Proposta 
+🏆 Solução Proposta:
+
 Possui temporizador, alarme sonoro/visual e mecanismo de liberação controlados.
 
 💎 Detalhes
